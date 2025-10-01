@@ -1,58 +1,135 @@
-<h1 align="center">✨ Hey there, I’m Danial 👨‍💻 </h1>
----
+# Danial Rahimian&nbsp;👋
+*Frontend developer crafting fast, modern, and delightful web apps with React and TypeScript.*
 
-### 🧑‍💻 About Me  
-💻 Frontend Developer | ⚡ React & TypeScript Enthusiast | 🎨 UI/UX Explorer  
-🚀 Building fast, modern, and delightful user experiences  
-☕ Coffee = the ultimate debugger  
+- Pragmatic about tools, opinionated about UX and quality.
+- Love clean components, predictable state, and thoughtful accessibility.
+- Coffee-powered; ship small and often.
+- Open to collaborations and frontend-heavy roles.
+- See **Let’s Connect** for the best way to reach me.
 
----
+## Tech Stack
+**Languages**  
+[![TypeScript badge—alt text: TypeScript][ts-badge]][ts-link]
+[![JavaScript badge—alt text: JavaScript][js-badge]][js-link]
+[![HTML5 badge—alt text: HTML5][html-badge]][html-link]
+[![CSS3 badge—alt text: CSS3][css-badge]][css-link]
 
-### 🛠️ Tech Arsenal  
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
-![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-black?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)
+**Frameworks & UI**  
+[![React badge—alt text: React][react-badge]][react-link]
+[![Redux badge—alt text: Redux][redux-badge]][redux-link]
+[![Tailwind CSS badge—alt text: Tailwind CSS][tw-badge]][tw-link]
+[![MUI badge—alt text: Material UI][mui-badge]][mui-link]
+[![Bootstrap badge—alt text: Bootstrap][bs-badge]][bs-link]
+[![shadcn/ui badge—alt text: shadcn/ui][shadcn-badge]][shadcn-link]
+
+**Tools & Platform**  
+[![Git badge—alt text: Git][git-badge]][git-link]
+[![GitHub badge—alt text: GitHub][gh-badge]][gh-link]
+[![npm badge—alt text: npm][npm-badge]][npm-link]
+
+## Featured Projects
+- **Project One — crisp value statement**  
+  What it does and why it matters in one sentence.  
+  **Result:** real metric (*e.g., 1.2k stars*, *10k+ monthly users*, *p95 < 200ms*).  
+  [Repo][p1-repo] · [Demo][p1-demo] · [Docs][p1-docs]
+
+- **Project Two — unique angle**  
+  Performance, DX, or UX improvement in a sentence.  
+  **Result:** concrete outcome (*e.g., –38% bundle size*, *+25% conversion*).  
+  [Repo][p2-repo] · [Site][p2-site]
+
+- **Project Three — user impact**  
+  A sentence that shows adoption or reliability.  
+  **Result:** *e.g., used in 3 client apps; 99.95% uptime*.  
+  [Repo][p3-repo]
+
+<details>
+<summary><em>More (optional)</em></summary>
+
+- **Small utility / hook** — what it solves in one line · [Repo][p4-repo]
+
+</details>
+
+## Stats & Activity
+<div align="center" aria-label="GitHub activity widgets for @danialrahimian">
+
+[![GitHub Stats for @danialrahimian — alt text: GitHub stats][stats-img]][stats-src]  
+[![Top Languages for @danialrahimian — alt text: Top languages chart][langs-img]][stats-src]  
+[![Streak for @danialrahimian — alt text: Contribution streak][streak-img]][streak-src]
 
 </div>
 
----
+<details>
+<summary><em>Text fallback (if widgets rate-limit)</em></summary>
 
-### 📊 GitHub Analytics  
-<div align="center">
+- Repos and pins: see the profile “Pinned” section.  
+- Activity: steady weekly contributions across UI, state management, and docs.  
+- Languages: primarily TypeScript/JavaScript with HTML/CSS.
 
-![Danial's GitHub stats](https://github-readme-stats.vercel.app/api?username=danialrahimian&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danialrahimian&layout=compact&theme=tokyonight)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=danialrahimian&theme=radical)
+</details>
 
-</div>
+## Highlights (optional)
+- Short bullets for a talk, an article, or a notable OSS PR.  
+- Keep each line focused and link to the source.
 
----
-
-### 🎉 Fun Zone
-> “Code is like humor. When you have to explain it, it’s bad.” 😅  
-
-🎮 Gaming, 🎵 Music, and 🕵️‍♂️ hunting bugs in life.  
-🌌 Always exploring the edge between creativity & code.  
-
----
-
-### 🌐 Connect with Me  
-🔗 [Portfolio](https://yourwebsite.com)  
-🐦 [Twitter](https://twitter.com/yourhandle)  
-💼 [LinkedIn](https://linkedin.com/in/yourhandle)  
+## Let’s Connect
+[![Portfolio badge—alt text: Portfolio][site-badge]][site-link]
+[![LinkedIn badge—alt text: LinkedIn profile][li-badge]][li-link]
+[![Twitter/X badge—alt text: Twitter/X][twtr-badge]][twtr-link]
 
 ---
 
-⭐️ Crafted with passion by a **Frontend Dev who codes with caffeine & creativity** 🚀
+*Last updated:* ![Last updated badge—alt text: Last updated](https://img.shields.io/badge/Last%20updated-Auto-777?style=flat-square)
+
+<!-- Reference-style links -->
+[ts-badge]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square
+[js-badge]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111&style=flat-square
+[html-badge]: https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square
+[css-badge]: https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square
+
+[react-badge]: https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square
+[redux-badge]: https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-square
+[tw-badge]: https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square
+[mui-badge]: https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat-square
+[bs-badge]: https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square
+[shadcn-badge]: https://img.shields.io/badge/shadcn%2Fui-111111?style=flat-square
+
+[git-badge]: https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square
+[gh-badge]: https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square
+[npm-badge]: https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-square
+
+[ts-link]: https://www.typescriptlang.org/
+[js-link]: https://developer.mozilla.org/docs/Web/JavaScript
+[html-link]: https://developer.mozilla.org/docs/Web/HTML
+[css-link]: https://developer.mozilla.org/docs/Web/CSS
+[react-link]: https://react.dev/
+[redux-link]: https://redux.js.org/
+[tw-link]: https://tailwindcss.com/
+[mui-link]: https://mui.com/
+[bs-link]: https://getbootstrap.com/
+[shadcn-link]: https://ui.shadcn.com/
+[git-link]: https://git-scm.com/
+[gh-link]: https://github.com/danialrahimian
+[npm-link]: https://www.npmjs.com/
+
+[stats-img]: https://github-readme-stats.vercel.app/api?username=danialrahimian&show_icons=true&hide_border=true&theme=tokyonight
+[langs-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=danialrahimian&layout=compact&hide_border=true&theme=tokyonight
+[streak-img]: https://streak-stats.demolab.com?user=danialrahimian&hide_border=true&theme=radical
+[stats-src]: https://github.com/anuraghazra/github-readme-stats
+[streak-src]: https://github.com/denvercoder1/github-readme-streak-stats
+
+[site-badge]: https://img.shields.io/badge/Portfolio-111111?logo=google-chrome&logoColor=white&style=flat-square
+[li-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square
+[twtr-badge]: https://img.shields.io/badge/Twitter%2FX-111111?logo=x&logoColor=white&style=flat-square
+
+[site-link]: https://yourwebsite.com
+[li-link]: https://linkedin.com/in/yourhandle
+[twtr-link]: https://twitter.com/yourhandle
+
+[p1-repo]: https://github.com/USERNAME/PROJECT-ONE
+[p1-demo]: https://PROJECT-ONE.example.com
+[p1-docs]: https://PROJECT-ONE.example.com/docs
+[p2-repo]: https://github.com/USERNAME/PROJECT-TWO
+[p2-site]: https://PROJECT-TWO.example.com
+[p3-repo]: https://github.com/USERNAME/PROJECT-THREE
+[p4-repo]: https://github.com/USERNAME/PROJECT-FOUR
