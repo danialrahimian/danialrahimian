@@ -30,7 +30,7 @@
 ### 📊 GitHub Analytics  
 <div align="center">
 
-![Danial's GitHub stats](https://github-readme-stats.vercel.app/api?username=danialrahimian&show_icons=true&theme=radical)  
+![Danial's GitHub stats](https://github-readme-stats.vercel.app/api?username=danialrahimian&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danialrahimian&layout=compact&theme=tokyonight)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=danialrahimian&theme=radical)
 
