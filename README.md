@@ -30,29 +30,6 @@
 [![GitHub badge—alt text: GitHub][gh-badge]][gh-link]
 [![npm badge—alt text: npm][npm-badge]][npm-link]
 
-## Featured Projects
-- **Project One — crisp value statement**  
-  What it does and why it matters in one sentence.  
-  **Result:** real metric (*e.g., 1.2k stars*, *10k+ monthly users*, *p95 < 200ms*).  
-  [Repo][p1-repo] · [Demo][p1-demo] · [Docs][p1-docs]
-
-- **Project Two — unique angle**  
-  Performance, DX, or UX improvement in a sentence.  
-  **Result:** concrete outcome (*e.g., –38% bundle size*, *+25% conversion*).  
-  [Repo][p2-repo] · [Site][p2-site]
-
-- **Project Three — user impact**  
-  A sentence that shows adoption or reliability.  
-  **Result:** *e.g., used in 3 client apps; 99.95% uptime*.  
-  [Repo][p3-repo]
-
-<details>
-<summary><em>More (optional)</em></summary>
-
-- **Small utility / hook** — what it solves in one line · [Repo][p4-repo]
-
-</details>
-
 ## Stats & Activity
 <div align="center" aria-label="GitHub activity widgets for @danialrahimian">
 
