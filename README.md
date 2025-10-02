@@ -16,11 +16,14 @@
 
 **Frameworks & UI**  
 [![React badge—alt text: React][react-badge]][react-link]
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 [![Redux badge—alt text: Redux][redux-badge]][redux-link]
 [![Tailwind CSS badge—alt text: Tailwind CSS][tw-badge]][tw-link]
 [![MUI badge—alt text: Material UI][mui-badge]][mui-link]
 [![Bootstrap badge—alt text: Bootstrap][bs-badge]][bs-link]
 [![shadcn/ui badge—alt text: shadcn/ui][shadcn-badge]][shadcn-link]
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 
 **Tools & Platform**  
 [![Git badge—alt text: Git][git-badge]][git-link]
