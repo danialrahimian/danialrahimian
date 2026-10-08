@@ -11,29 +11,36 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Internship%20%2F%20Junior%20Roles-22c55e?style=for-the-badge" alt="Open to internship / junior roles" />
-  <a href="https://x.com/danialrahimian"><img src="https://img.shields.io/badge/X-@danialrahimian-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
-  <img src="https://komarev.com/ghpvc/?username=danialrahimian&style=for-the-badge&color=3178c6&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Based%20in-Iran-3178c6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Iran" />
+  <img src="https://komarev.com/ghpvc/?username=danialrahimian&style=for-the-badge&color=1e3a8a&label=Profile+views" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/danialrahimian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:onedaniyel@gmail.com"><img src="https://img.shields.io/badge/Email-onedaniyel%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/danialrahimian"><img src="https://img.shields.io/badge/X-@danialrahimian-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm **Danial**, a frontend developer who builds modern, responsive web apps with **React** and **TypeScript**.
+I'm **Danial**, a frontend developer from **Iran** who builds modern, responsive web apps with **React** and **TypeScript**.
 I enjoy turning complex data into clean, usable interfaces — dashboards, live market trackers, e-commerce flows and auth experiences.
 
 ```ts
 const danial = {
   role: "Frontend Developer",
+  location: "Iran 🇮🇷",
   focus: ["React 19", "TypeScript", "Redux Toolkit", "Tailwind CSS v4"],
-  currentlyBuilding: "data-driven dashboards & reusable UI components",
-  currentlyLearning: ["Next.js App Router", "Testing (Vitest + RTL)", "Node.js / Express"],
+  currentlyBuilding: "a full, production-ready web application 🚧",
   values: ["type safety", "accessibility", "clean component architecture"],
-  openTo: ["Internships", "Junior frontend roles", "Open-source collaboration"],
+  openTo: ["Internships", "Junior frontend roles", "Collaboration"],
+  contact: "onedaniyel@gmail.com",
 } as const;
 ```
 
-- 🔭 Recently shipped **[Crypto FX Tracker](https://github.com/danialrahimian/crypto-fx-tracker)** — a live crypto & NFT dashboard on the CoinGecko API
+- 🚧 Currently building a **complete, real-world project** — it will be featured here soon
 - 🧱 I structure apps around **typed Redux slices**, custom middlewares and reusable layout components
 - 🎨 Comfortable with **MUI**, **Radix UI** and the **shadcn/ui** pattern, plus light/dark theming
 - 🌐 Experienced with **RTL / Persian** interfaces
@@ -67,12 +74,27 @@ const danial = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚧 Coming Soon
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Development-f59e0b?style=for-the-badge" alt="In development" />
+</p>
+
+<p align="center">
+  I'm working on a <b>full, production-grade project</b> built end-to-end with a modern React + TypeScript stack.<br/>
+  It will be published here with a live demo and documentation. ⭐ Follow to get notified!
+</p>
+
+---
+
+## 💼 Selected Work
+
+> Source code for these projects is available on request.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/danialrahimian/crypto-fx-tracker">Crypto FX Tracker</a></h3>
+      <h3>📈 Crypto FX Tracker</h3>
       Responsive crypto & NFT dashboard pulling <b>live CoinGecko data</b>: top coins, exchanges, NFTs and trending categories, with multi-column sorting, detail drawers, pagination, skeleton loaders and dark/light theming.
       <br/><br/>
       <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -82,7 +104,7 @@ const danial = {
       <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/danialrahimian/admin-dashboard">Admin Dashboard</a></h3>
+      <h3>📊 Admin Dashboard</h3>
       Admin workspace on <b>MUI Toolpad</b> with routed navigation, analytics & sales charts, CRUD tables for users and products, transactions, inbox and reports — backed by fully typed Redux slices and memoized selectors.
       <br/><br/>
       <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -94,7 +116,7 @@ const danial = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/danialrahimian/Tech-Shop">Tech Shop</a></h3>
+      <h3>🛒 Tech Shop</h3>
       E-commerce storefront for smartphones with home, shop, about and contact pages. Data flows through <b>Redux Toolkit slices + custom async middlewares</b>, with a reusable typed form-validation hook.
       <br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -104,18 +126,7 @@ const danial = {
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/danialrahimian/login-form">Auth Playground</a></h3>
-      Register/login flows with <b>Redux middlewares</b> for async side-effects, strict client-side validation, Sonner toasts and a persistent light/dark/system theme — built on Radix primitives the shadcn/ui way.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white" />
-      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗂️ <a href="https://github.com/danialrahimian/Persian-Dashboard-Admin">Persian Shop CMS</a></h3>
+      <h3>🗂️ Persian Shop CMS</h3>
       Full-stack <b>RTL admin panel</b> for managing products, orders, users, comments and discount codes — React frontend with an <b>Express + MySQL</b> REST backend.
       <br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -123,42 +134,12 @@ const danial = {
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
     </td>
-    <td width="50%" valign="top">
-      <h3>🌌 <a href="https://github.com/danialrahimian/portfolio-wbsite">Portfolio Website</a></h3>
-      Single-page portfolio with an animated star & meteor background, filterable skills, projects grid, accessible contact form, toasts and a persistent theme toggle.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-    </td>
   </tr>
 </table>
 
-<details>
-<summary><b>More projects</b></summary>
-<br/>
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Next.js Portfolio](https://github.com/danialrahimian/Next-JS-Portfolio-website) | Portfolio site built with Next.js | Next.js · TypeScript · Tailwind |
-| [Tech Shop (CRA)](https://github.com/danialrahimian/Tech-shop-react-app) | Earlier version of the storefront | React · MUI · React Router |
-| [Keyboard Tracker](https://github.com/danialrahimian/Key-Board-Tracker) | Highlights keys on screen as you type | JavaScript · DOM events |
-| [Weather App](https://github.com/danialrahimian/Weather-App) | Current weather by city via the OpenWeatherMap API | JavaScript · REST API |
-| [VPN Landing Page](https://github.com/danialrahimian/VPN-Landing-page) | Responsive marketing landing page | HTML · CSS |
-| [Multi-Step Form](https://github.com/danialrahimian/Multi-Step-Form) | Multi-step form flow with progress steps | HTML · CSS · JavaScript |
-| [QR Code Generator](https://github.com/danialrahimian/QR-Code-Generator) | Generate, download and share QR codes | HTML · CSS · JavaScript |
-
-</details>
-
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danialrahimian&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3178c6&icon_color=3178c6&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialrahimian&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=3178c6&text_color=c9d1d9" alt="Top languages" />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=danialrahimian&hide_border=true&background=0d1117&ring=3178c6&fire=3178c6&currStreakLabel=3178c6&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Contribution streak" />
@@ -182,13 +163,16 @@ const danial = {
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/danialrahimian"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:onedaniyel@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://x.com/danialrahimian"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.youtube.com/@danial.rahimian"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.instagram.com/danial__rahimian/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <p align="center">
-  I'm actively looking for <b>internship and junior frontend opportunities</b> — feel free to reach out for work or collaboration. ⭐ If you like a project, a star means a lot!
+  I'm actively looking for <b>internship and junior frontend opportunities</b>.<br/>
+  The fastest way to reach me is <a href="mailto:onedaniyel@gmail.com">onedaniyel@gmail.com</a> or LinkedIn.
 </p>
 
 <p align="center">
