@@ -1,129 +1,196 @@
-# Danial Rahimian&nbsp;👋
-*Frontend developer crafting fast, modern, and delightful web apps with React and TypeScript.*
+<!-- ============================  HEADER  ============================ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3178c6&height=190&section=header&text=Danial%20Rahimian&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%A2%20React%20%26%20TypeScript&descSize=17&descAlignY=58&animation=fadeIn" alt="Danial Rahimian — Frontend Developer" width="100%" />
+</p>
 
-- Pragmatic about tools, opinionated about UX and quality.  
-- Love clean components, predictable state, and thoughtful accessibility.  
-- Coffee-powered; ship small and often.  
-- Open to collaborations and frontend-heavy roles.  
-- See **Let’s Connect** for the best way to reach me.
+<p align="center">
+  <a href="https://github.com/danialrahimian">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=3178C6&center=true&vCenter=true&width=560&lines=Building+fast%2C+accessible+React+apps;TypeScript+%E2%80%A2+Redux+Toolkit+%E2%80%A2+Tailwind+CSS;Dashboards%2C+data-heavy+UIs+%26+design+systems;Open+to+internship+%26+junior+frontend+roles" alt="Typing animation: what I build" />
+  </a>
+</p>
 
-## Tech Stack
-**Languages**  
-[![TypeScript badge — alt: TypeScript][ts-badge]][ts-link]
-[![JavaScript badge — alt: JavaScript][js-badge]][js-link]
-[![HTML5 badge — alt: HTML5][html-badge]][html-link]
-[![CSS3 badge — alt: CSS3][css-badge]][css-link]
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internship%20%2F%20Junior%20Roles-22c55e?style=for-the-badge" alt="Open to internship / junior roles" />
+  <a href="https://x.com/danialrahimian"><img src="https://img.shields.io/badge/X-@danialrahimian-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <img src="https://komarev.com/ghpvc/?username=danialrahimian&style=for-the-badge&color=3178c6&label=Profile+views" alt="Profile views" />
+</p>
 
-**Frameworks & UI**  
-[![React badge — alt: React][react-badge]][react-link]
-[![Next.js badge — alt: Next.js][next-badge]][next-link]
-[![Redux badge — alt: Redux][redux-badge]][redux-link]
-[![Tailwind CSS badge — alt: Tailwind CSS][tw-badge]][tw-link]
-[![MUI badge — alt: Material UI][mui-badge]][mui-link]
-[![Radix UI badge — alt: Radix UI][radix-badge]][radix-link]
-[![shadcn/ui badge — alt: shadcn/ui][shadcn-badge]][shadcn-link]
+---
 
-**Tools & Platform**  
-[![Git badge — alt: Git][git-badge]][git-link]
-[![GitHub badge — alt: GitHub][gh-badge]][gh-link]
-[![npm badge — alt: npm][npm-badge]][npm-link]
+## 👋 About Me
 
-</details>
+I'm **Danial**, a frontend developer who builds modern, responsive web apps with **React** and **TypeScript**.
+I enjoy turning complex data into clean, usable interfaces — dashboards, live market trackers, e-commerce flows and auth experiences.
 
-## Stats & Activity
-<div align="center" aria-label="GitHub activity widgets for @danialrahimian">
+```ts
+const danial = {
+  role: "Frontend Developer",
+  focus: ["React 19", "TypeScript", "Redux Toolkit", "Tailwind CSS v4"],
+  currentlyBuilding: "data-driven dashboards & reusable UI components",
+  currentlyLearning: ["Next.js App Router", "Testing (Vitest + RTL)", "Node.js / Express"],
+  values: ["type safety", "accessibility", "clean component architecture"],
+  openTo: ["Internships", "Junior frontend roles", "Open-source collaboration"],
+} as const;
+```
 
-[![GitHub Stats for @danialrahimian — alt: GitHub stats][stats-img]][stats-src]  
-[![Top Languages for @danialrahimian — alt: Top languages chart][langs-img]][stats-src]  
-[![Streak for @danialrahimian — alt: Contribution streak][streak-img]][streak-src]
+- 🔭 Recently shipped **[Crypto FX Tracker](https://github.com/danialrahimian/crypto-fx-tracker)** — a live crypto & NFT dashboard on the CoinGecko API
+- 🧱 I structure apps around **typed Redux slices**, custom middlewares and reusable layout components
+- 🎨 Comfortable with **MUI**, **Radix UI** and the **shadcn/ui** pattern, plus light/dark theming
+- 🌐 Experienced with **RTL / Persian** interfaces
+- 💬 Ask me about **React state management, component design and Tailwind**
 
-</div>
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,redux,tailwind,materialui,vite&perline=10" alt="TypeScript, JavaScript, HTML, CSS, React, Next.js, Redux, Tailwind CSS, Material UI, Vite" />
+  </a>
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,git,github,npm,vscode&perline=10" alt="Node.js, Express, MySQL, Git, GitHub, npm, VS Code" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/MUI%20X%20Charts-007FFF?style=flat-square&logo=mui&logoColor=white" alt="MUI X Charts" />
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" alt="Recharts" />
+  <img src="https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Motion" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=flat-square" alt="REST APIs" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/danialrahimian/crypto-fx-tracker">Crypto FX Tracker</a></h3>
+      Responsive crypto & NFT dashboard pulling <b>live CoinGecko data</b>: top coins, exchanges, NFTs and trending categories, with multi-column sorting, detail drawers, pagination, skeleton loaders and dark/light theming.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/danialrahimian/admin-dashboard">Admin Dashboard</a></h3>
+      Admin workspace on <b>MUI Toolpad</b> with routed navigation, analytics & sales charts, CRUD tables for users and products, transactions, inbox and reports — backed by fully typed Redux slices and memoized selectors.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/MUI%207-007FFF?style=flat-square&logo=mui&logoColor=white" />
+      <img src="https://img.shields.io/badge/MUI%20X%20Charts-007FFF?style=flat-square&logo=mui&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/danialrahimian/Tech-Shop">Tech Shop</a></h3>
+      E-commerce storefront for smartphones with home, shop, about and contact pages. Data flows through <b>Redux Toolkit slices + custom async middlewares</b>, with a reusable typed form-validation hook.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/danialrahimian/login-form">Auth Playground</a></h3>
+      Register/login flows with <b>Redux middlewares</b> for async side-effects, strict client-side validation, Sonner toasts and a persistent light/dark/system theme — built on Radix primitives the shadcn/ui way.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white" />
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗂️ <a href="https://github.com/danialrahimian/Persian-Dashboard-Admin">Persian Shop CMS</a></h3>
+      Full-stack <b>RTL admin panel</b> for managing products, orders, users, comments and discount codes — React frontend with an <b>Express + MySQL</b> REST backend.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌌 <a href="https://github.com/danialrahimian/portfolio-wbsite">Portfolio Website</a></h3>
+      Single-page portfolio with an animated star & meteor background, filterable skills, projects grid, accessible contact form, toasts and a persistent theme toggle.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><em>Text fallback (if widgets rate-limit)</em></summary>
+<summary><b>More projects</b></summary>
+<br/>
 
-- Pinned repos: see the profile “Pinned” section.  
-- Activity: steady weekly contributions across UI, state, and docs.  
-- Languages: primarily TypeScript/JavaScript with HTML/CSS.
-
-</details>
-
-## Highlights (optional)
-- Short bullets for a talk, article, or notable OSS PR (link each).  
-- Keep each line focused and specific.
-
-## Let’s Connect
-[![Portfolio badge — alt: Portfolio][site-badge]][site-link]
-[![LinkedIn badge — alt: LinkedIn profile][li-badge]][li-link]
-[![Twitter/X badge — alt: Twitter/X][twtr-badge]][twtr-link]
-
-<details>
-<summary><em>More</em></summary>
-
-- YouTube: [@danial.rahimian][yt-link]  
-- Instagram: [@danial__rahimian][ig-link]
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Next.js Portfolio](https://github.com/danialrahimian/Next-JS-Portfolio-website) | Portfolio site built with Next.js | Next.js · TypeScript · Tailwind |
+| [Tech Shop (CRA)](https://github.com/danialrahimian/Tech-shop-react-app) | Earlier version of the storefront | React · MUI · React Router |
+| [Keyboard Tracker](https://github.com/danialrahimian/Key-Board-Tracker) | Highlights keys on screen as you type | JavaScript · DOM events |
+| [Weather App](https://github.com/danialrahimian/Weather-App) | Current weather by city via the OpenWeatherMap API | JavaScript · REST API |
+| [VPN Landing Page](https://github.com/danialrahimian/VPN-Landing-page) | Responsive marketing landing page | HTML · CSS |
+| [Multi-Step Form](https://github.com/danialrahimian/Multi-Step-Form) | Multi-step form flow with progress steps | HTML · CSS · JavaScript |
+| [QR Code Generator](https://github.com/danialrahimian/QR-Code-Generator) | Generate, download and share QR codes | HTML · CSS · JavaScript |
 
 </details>
 
 ---
 
-*Last updated:* ![Last updated badge — alt: Last updated](https://img.shields.io/badge/Last%20updated-Auto-777?style=flat-square)
+## 📊 GitHub Stats
 
-<!-- Reference-style links -->
-[ts-badge]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square
-[js-badge]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111&style=flat-square
-[html-badge]: https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square
-[css-badge]: https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=danialrahimian&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3178c6&icon_color=3178c6&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialrahimian&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=3178c6&text_color=c9d1d9" alt="Top languages" />
+</p>
 
-[react-badge]: https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square
-[next-badge]: https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square
-[redux-badge]: https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-square
-[tw-badge]: https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square
-[mui-badge]: https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=flat-square
-[radix-badge]: https://img.shields.io/badge/Radix%20UI-161618?logo=radix-ui&logoColor=white&style=flat-square
-[shadcn-badge]: https://img.shields.io/badge/shadcn%2Fui-111111?style=flat-square
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=danialrahimian&hide_border=true&background=0d1117&ring=3178c6&fire=3178c6&currStreakLabel=3178c6&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Contribution streak" />
+</p>
 
-[jwt-badge]: https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat-square
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=danialrahimian&bg_color=0d1117&color=c9d1d9&line=3178c6&point=ffffff&area=true&area_color=3178c6&hide_border=true" alt="Contribution activity graph" />
+</p>
 
-[git-badge]: https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square
-[gh-badge]: https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square
-[npm-badge]: https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-square
+<!-- Snake animation is generated daily by .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danialrahimian/danialrahimian/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danialrahimian/danialrahimian/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/danialrahimian/danialrahimian/output/github-snake-dark.svg" />
+  </picture>
+</p>
 
-[ts-link]: https://www.typescriptlang.org/
-[js-link]: https://developer.mozilla.org/docs/Web/JavaScript
-[html-link]: https://developer.mozilla.org/docs/Web/HTML
-[css-link]: https://developer.mozilla.org/docs/Web/CSS
-[react-link]: https://react.dev/
-[next-link]: https://nextjs.org/
-[redux-link]: https://redux.js.org/
-[tw-link]: https://tailwindcss.com/
-[mui-link]: https://mui.com/
-[radix-link]: https://radix-ui.com/
-[shadcn-link]: https://ui.shadcn.com/
-[git-link]: https://git-scm.com/
-[gh-link]: https://github.com/danialrahimian
-[npm-link]: https://www.npmjs.com/
+---
 
-[stats-img]: https://github-readme-stats.vercel.app/api?username=danialrahimian&show_icons=true&hide_border=true&theme=tokyonight
-[langs-img]: https://github-readme-stats.vercel.app/api/top-langs/?username=danialrahimian&layout=compact&hide_border=true&theme=tokyonight
-[streak-img]: https://streak-stats.demolab.com?user=danialrahimian&hide_border=true&theme=radical
-[stats-src]: https://github.com/anuraghazra/github-readme-stats
-[streak-src]: https://github.com/denvercoder1/github-readme-streak-stats
+## 🤝 Let's Connect
 
-[site-badge]: https://img.shields.io/badge/Portfolio-111111?logo=google-chrome&logoColor=white&style=flat-square
-[li-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square
-[twtr-badge]: https://img.shields.io/badge/Twitter%2FX-111111?logo=x&logoColor=white&style=flat-square
+<p align="center">
+  <a href="https://x.com/danialrahimian"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.youtube.com/@danial.rahimian"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/danial__rahimian/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-[site-link]: https://yourwebsite.com
-[li-link]: https://linkedin.com/in/yourhandle
-[twtr-link]: https://x.com/danialrahimian
-[yt-link]: https://www.youtube.com/@danial.rahimian
-[ig-link]: https://www.instagram.com/danial__rahimian/
+<p align="center">
+  I'm actively looking for <b>internship and junior frontend opportunities</b> — feel free to reach out for work or collaboration. ⭐ If you like a project, a star means a lot!
+</p>
 
-[p1-repo]: https://github.com/USERNAME/PROJECT-ONE
-[p1-demo]: https://PROJECT-ONE.example.com
-[p1-docs]: https://PROJECT-ONE.example.com/docs
-[p2-repo]: https://github.com/USERNAME/PROJECT-TWO
-[p2-site]: https://PROJECT-TWO.example.com
-[p3-repo]: https://github.com/USERNAME/PROJECT-THREE
-[p4-repo]: https://github.com/USERNAME/PROJECT-FOUR
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178c6,50:1e3a8a,100:0f172a&height=110&section=footer" alt="" width="100%" />
+</p>
